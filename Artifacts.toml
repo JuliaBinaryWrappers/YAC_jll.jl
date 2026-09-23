@@ -1,0 +1,412 @@
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "d44db399d292d87c9ab67e8bd4f71be972db1b10"
+mpi = "mpiabi"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "77ee2261eec3dc3e77d9d81e7905935e279270a05e9d33a5eb00a4576e52612f"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "35cb67c1b4b3e8ec7ef2dc2e4bac6434b1e4c499"
+mpi = "mpich"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "6ac728294cb64976d3e60d20b5731e03a57b43531545034ae2361097752ede05"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "7836bd1cc5f098d0c84ba41db2d21373e39ad056"
+mpi = "openmpi"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "d34570a814d938dec5d06f01df0999e935d0a4c4722c9233d1cb340b11669c63"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "bdaeaf237ce1467c12bd101fca4d477d16ea51ec"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "012e21806425f252cd3104c13207c49bdf9feaa923a58beca40cfb92cd40da83"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "520ef58ea05e54f0ec6144c5ff697db438d4d6c1"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "f5f50c0b127cdae5f670a100c4a7e708e935fe74d184b4f066394c738339f266"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "65b0914335bcf7cbe31208d5924ec915491e74ea"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "355d2777bd22159efda7af61857446c445355d76360e514dc216a5171be232c4"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "2df4115a8d23b39ee93ea9ed50beddb245e3208f"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "9160af5c5f20db26a2363cae2db03e49f1e6ea7308f067d60e9076b57392edc8"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "58eb3fcab4f1a2af3defb90b8f9c236618110ecb"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "05bd6d67b6de2a03324c8cb16cf8a86bc2bce72fd1cc65a8a431673062e44771"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "aarch64"
+git-tree-sha1 = "519d0225bc72833f6dcb188a7d600e8f39f7cc53"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "6418d028ea5feb43b8260eb4f362b533b4461212484d06aa2d24ac4ed8bfd926"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d4e4a24dd93de5dfd54a4c3aef3b77e5fbbfbbb5"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "bbc773a79a0476dfda20f0232c3629f28720c06dc5a8f3a89f0f0a85a9fe830f"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "054fb6122251d88fcd283565faf2a6721bb96401"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "4a1537bbc24470e0da8fed80401b95723eb6faeeadc7a5b4a8d3269f45a19a32"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8b13202aad37e687e2accaae4e5c1ca43d339441"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "43f108002b9e7d6cbc783d1943b144581829d49dada26a1cc950c2cedce11087"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "952fb2b7ebaad5084908a93a5ae4c68a4e13bfa6"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "55fc4961181989ef1c7880b67b2839884e0f650965b814e85fca5d1acbc0276a"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c1e24248d2616f9ca2e58c8f468401340832baf3"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "8fa919b31fac3df4b13d739d43087d0276ff166fb4b76642f8c464b73c828b96"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "271e323fffe4ad7e0ffcd535207e9c4dbbf8a2b7"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "1764c8ccd9990c773f2b8f7612d8c3bca7e1e7936a650c6b67dc9aa3b52a19cb"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2246f209acc50c5db07cef55f8b501f43b617d96"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "ee9ae2466201b80b949b1af244f145b3b2a33d0d71b516382989f80d7c52af5b"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "97f78c25bab7f00e284a43a11fa85231593929ce"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "46e46271c1b34af71a1219c9a160e4a69bf2294821a9cf79fbc87373fa34f803"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "86493fb1ecdc8be0a9f2c70027b99fa12eb60990"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "7497ef12b65db616fbf31022fc01616a0aa789844b931d67720648696c31c9d3"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "daf9669817b8bb211d0e6c342667d1ef627c886d"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "81cbf86420af91c0cfaddd1bdd7639a762d18ea3dccb4dcc32e6fb11db664b7f"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03dc6e94b5283949b516f815af6dd7e01b9306b1"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "ab03eb46f9e738679ad9aa96286f7b7aaee220a89c942025b0f1b1123d33f2d4"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "a08b77a5f1f60aff7c8338b72f4c87fb7e7287cd"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "4aab3708d8d1dd0f0377f4648f4d6626924c115cdbb7732698d59561ad2f7de9"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "851b6da31bdc704b12937ee52a4064604c0c3c46"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "b36214339aad003c9c63533eddf286f4eddd0c7cbbe556b948fb22d446159f26"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-gnu-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "97825d83630397d0a71eef528750bee5f3f52871"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "73c6f9b8f5dc23c5ff508881bbab4cf112d2910e5b5c1be0f093a371c42fc8cd"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "cf84797dde5529072bc0f7a62141e02c3944386c"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "809323bb404781e7637648e408bb79e8f3a6f863fb95acb9402750cee209cb9c"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "adc6af241816e36aaec63b0dee25c13212d7a183"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "29ad2b260f6abe301e474bfe3ff893ad9139e40c46a955b1d06376100b53f244"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-musl-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "i686"
+git-tree-sha1 = "0d203fb98eebda27465827c91ca2d59f2adac1f0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "5c7911733cb567e10e8f1c794b78ff61dc9ba9642b1c80592792fd239d8b2de6"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.i686-linux-musl-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "powerpc64le"
+git-tree-sha1 = "f4983a5ee83e123e6010bed2cd3a98c92e38df1e"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "73b7a673a7d5d6802e5b645b549705cef2b644f7a59fed892950ab0467e3a7a6"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "powerpc64le"
+git-tree-sha1 = "a083dbd68a3e3e75c13f06582b5dc8f5cf06281d"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "0ef25b9f9b684eca64004cd2a371e44bd615851805c764e8743fb5d965e855e4"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "powerpc64le"
+git-tree-sha1 = "a4d9ea4ba678c92bae21fe7ec28126fe01fa025d"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "b8cb01c60364243d4ab1584021eadce099da3bfa507f47041de0e8e2a275b4b7"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "6c46a102d463af88a112a546ab0311ae99ab00c0"
+mpi = "mpiabi"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "aa834a7c9ee6e446fee9d1860d4817b2f5f63cff2bf6ca328e5c65e3a5a66aae"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "66f0df7d44428530340b45e1f2cc65372714a755"
+mpi = "mpich"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "c528676c31758792dba5b7d583c9be27b58dfb9d6c492f6c51eed6ccacd2ffce"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "3258b474eae43a7872a20dbb5020a8654164de35"
+mpi = "openmpi"
+os = "macos"
+
+    [[YAC.download]]
+    sha256 = "084c2673aa504798e89f7ed2579d7cef386b1952495fdfa3067ded7a87be79be"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "c500bfbbed96514a2c79a967858071f12d91a952"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "1c508cd6179bd348c7ded1f56474f060c83ecf48dedf1400aaa88944b32dc4fd"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "8be5fbb87d31837c58af3e9ba1c47bad91c1ebc1"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "b1ddf13a8134d09b8072cf9706508187eec67bdcc5ebf219c0dc12e8d683a43b"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "c0d6954cf870b5c9cd29fcb998a10d312d86d36e"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "cc1bf6bf12ffa8c101a8b436697f66f7a993c710285ab827498f40a992d9a402"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "ddb1564cdc0629792019ba4476fa29a2eb719e00"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "521eb34fdacf01615402a35f5e686844e88bda750f381c5464ab3870dbd42ae8"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "397bc997b75588d252b4cd6ee16a128a7eb456d6"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "2ff03e93e59dca9cacaa2f7ef7161413eb960edacc8b46bc1ed39fdd4f89df94"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "2b7a0370c874ebc85e8228166261641c9a00a39a"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[YAC.download]]
+    sha256 = "a7d961257c78451819c31750935f9ca50867b7b3620f7b9a7e392a8e781bb5da"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "560bb9cb4492d0ffd5d0f5e48c44a2c4d98e0597"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[YAC.download]]
+    sha256 = "d5aa522b9874ee879a80a523d080a286a623367c9d7dbaaba23ad0e85c58030c"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "0c243a60fd238f12477f61393ae90b00b17944e7"
+mpi = "mpich"
+os = "freebsd"
+
+    [[YAC.download]]
+    sha256 = "6c7167570da602261169094576161b5ac6dbf8de66edcc289e44f90ad7107147"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[YAC]]
+arch = "x86_64"
+git-tree-sha1 = "b5e166afc5a57ebf85ffdada91bea9a232e3ce85"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[YAC.download]]
+    sha256 = "48feb2b1a4d863439608a2604f0deb9f9f936cef9eef29e24110b687becb4a4b"
+    url = "https://github.com/JuliaBinaryWrappers/YAC_jll.jl/releases/download/YAC-v3.21.0+0/YAC.v3.21.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
