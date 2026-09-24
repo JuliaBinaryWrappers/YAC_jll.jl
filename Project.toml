@@ -1,6 +1,6 @@
 name = "YAC_jll"
 uuid = "aa1ccfa5-6185-5fd1-9463-1a36d2aeca03"
-version = "3.21.0+0"
+version = "3.21.0+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -23,7 +23,7 @@ MicrosoftMPI_jll = "9237b28f-5490-5468-be7b-bb81f5f5e6cf"
 MPIPreferences = "0.1"
 Libdl = "< 0.0.1, 1"
 yaxt_jll = "0.12.1"
-OpenBLAS32_jll = "0.3.34"
+OpenBLAS32_jll = "0.3.24"
 MPIABI_jll = "1.0.0"
 libfyaml_jll = "0.7.12"
 JLLWrappers = "1.7.0"
